@@ -1,0 +1,43 @@
+[{
+  "Collatz": 18
+}, {
+  "Collatz": 9
+}, {
+  "Collatz": 28
+}, {
+  "Collatz": 14
+}, {
+  "Collatz": 7
+}, {
+  "Collatz": 22
+}, {
+  "Collatz": 11
+}, {
+  "Collatz": 34
+}, {
+  "Collatz": 17
+}, {
+  "Collatz": 52
+}, {
+  "Collatz": 26
+}, {
+  "Collatz": 13
+}, {
+  "Collatz": 40
+}, {
+  "Collatz": 20
+}, {
+  "Collatz": 10
+}, {
+  "Collatz": 5
+}, {
+  "Collatz": 16
+}, {
+  "Collatz": 8
+}, {
+  "Collatz": 4
+}, {
+  "Collatz": 2
+}, {
+  "Collatz": 1
+}]

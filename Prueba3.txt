@@ -1,0 +1,17 @@
+[{
+  "Collatz": 20
+}, {
+  "Collatz": 10
+}, {
+  "Collatz": 5
+}, {
+  "Collatz": 16
+}, {
+  "Collatz": 8
+}, {
+  "Collatz": 4
+}, {
+  "Collatz": 2
+}, {
+  "Collatz": 1
+}]
